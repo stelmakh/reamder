@@ -1,11 +1,11 @@
 {
-  "name": "your-app",
-  "description": "Description",
-  "author": "Your Name",
+  "name": "reamder",
+  "description": "A dead-simple markdown reader",
+  "author": "Volodymyr Stelmakh <vk.stelmakh@gmail.com>",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:stelmakh/reamder.git"
   },
   "scripts": {
     "start": "brunch watch --server",
@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "auto-reload-brunch": "^2.0.0",
+    "autoprefixer": "^6.7.1",
     "babel-brunch": "~6.0.0",
     "babel-preset-es2015": "~6.3.13",
     "babel-preset-react": "^6.22.0",
@@ -27,6 +28,7 @@
     "clean-css-brunch": "^2.0.0",
     "css-brunch": "^2.0.0",
     "javascript-brunch": "^2.0.0",
+    "postcss-brunch": "^2.0.5",
     "stylus-brunch": "^2.8.0",
     "uglify-js-brunch": "^2.0.0"
   }
