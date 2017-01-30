@@ -3,6 +3,8 @@
 This is a dead-simple markdown reader. Written just for fun (and for reading
 markdown books, of course)
 
+![reamder](https://cloud.githubusercontent.com/assets/1478743/22441676/11035fd0-e741-11e6-8c26-b948f5c623ac.png)
+
 ## Getting started
 
 * Clone the repo
